@@ -4,6 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "startB": "cd backend && npm start",
+    "startF": "cd frontend && npm run dev",
     "start": "concurrently \"cd backend && npm start\" \"cd frontend && npm run dev\"",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
