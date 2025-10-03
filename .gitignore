@@ -10,7 +10,8 @@ dist/
 build/
 
 # Environment variables
-.env
+*.env
+timestamp.env
 
 # IDE files
 .vscode/
