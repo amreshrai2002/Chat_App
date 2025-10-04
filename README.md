@@ -1,5 +1,7 @@
 # Real-Time Chat Application 🚀
 
+![Chat App Demo]<img width="1823" height="1010" alt="Screenshot (73)" src="https://github.com/user-attachments/assets/50ad4137-c41c-4137-80fd-e42b3a0e69b3" />
+
 A full-stack, real-time chat application built with the MERN stack (MongoDB, Express.js, React, Node.js) and Socket.IO. This app allows users to communicate instantly, create group chats, and personalize their experience with dynamic themes.
 
 ---
